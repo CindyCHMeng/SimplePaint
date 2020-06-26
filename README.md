@@ -1,5 +1,5 @@
 # SimplePaint
-Simple Paint application in C++ and MFC.
+Simple Paint application on Windows in C++ and MFC.
 
 ## Function
 - **Add/Delete element.**
