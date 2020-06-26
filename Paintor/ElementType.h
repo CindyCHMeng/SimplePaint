@@ -1,0 +1,19 @@
+#pragma once
+
+enum class ElementType
+{
+	LINE, 
+	RECTANGLE, 
+	CIRCLE, 
+	CURVE,
+	TEXT,
+	SELECT
+};
+
+/*class ElementType
+{
+public:
+	ElementType();
+	~ElementType();
+};*/
+
